@@ -4,6 +4,7 @@ Archive for StudentAmp paper published to CSCW 2022/PACMHCI
 
 Xie, Benjamin, Alannah Oleson, Jayne Everson, and Amy J. Ko. “Surfacing Equity Issues in Large Computing Courses with Peer-Ranked, Demographically-Labeled Student Feedback.” Proceedings of the ACM on Human-Computer Interaction, 2022.
 
+```
 @ARTICLE{Xie2022-cscw,
   title   = "Surfacing Equity Issues in Large Computing Courses with
              {Peer-Ranked}, {Demographically-Labeled} Student Feedback",
@@ -12,3 +13,4 @@ Xie, Benjamin, Alannah Oleson, Jayne Everson, and Amy J. Ko. “Surfacing Equity
   year    =  2022,
   note    = "accepted to CSCW 2022"
 }
+```
